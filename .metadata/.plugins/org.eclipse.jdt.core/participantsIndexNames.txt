@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\dev\webRepo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3259728654.index
+\webPrj22\src
+C:\dev\webRepo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1776769396.index
+\webPrj22\src
+C:\dev\webRepo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2551728686.index
+\hwebPrj01\src
+C:\dev\webRepo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3876799007.index
+\webPrj22\src
+C:\dev\webRepo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1464011047.index
+\webPrj22\src
